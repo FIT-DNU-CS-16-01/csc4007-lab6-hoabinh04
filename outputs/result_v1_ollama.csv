@@ -1,0 +1,141 @@
+review_id,gold_sentiment,llm_sentiment,llm_evidence,raw_output,valid_json
+R001,positive,positive,"An absolute masterpiece! | The acting, the cinematography, and the score all came together to create an unforgettable experience. | I will watch this again and again.","```json
+{
+  ""sentiment"": ""positive"",
+  ""evidence"": [""An absolute masterpiece!"", ""The acting, the cinematography, and the score all came together to create an unforgettable experience."", ""I will watch this again and again.""],
+  ""short_explanation"": ""The review uses highly positive language and expresses intent to rewatch the movie.""
+}
+```",1
+R002,positive,positive,Simply brilliant | One of the best films of the decade | stellar performance by the lead actor,"```json
+{
+  ""sentiment"": ""positive"",
+  ""evidence"": [""Simply brilliant"", ""One of the best films of the decade"", ""stellar performance by the lead actor""],
+  ""short_explanation"": ""The review uses highly positive phrases such as 'brilliant' and 'one of the best films', indicating strong approval.""
+}
+```",1
+R003,negative,negative,worst movie | Terrible plot | awful acting | complete waste of time and money,"```json
+{
+  ""sentiment"": ""negative"",
+  ""evidence"": [""worst movie"", ""Terrible plot"", ""awful acting"", ""complete waste of time and money""],
+  ""short_explanation"": ""The review uses strongly negative language to describe multiple aspects of the movie.""
+}
+```",1
+R004,negative,negative,An absolute disaster | I cannot believe someone funded this garbage | Do yourself a favor and avoid it,"```json
+{
+  ""sentiment"": ""negative"",
+  ""evidence"": [""An absolute disaster"", ""I cannot believe someone funded this garbage"", ""Do yourself a favor and avoid it""],
+  ""short_explanation"": ""The review strongly criticizes the movie, advising others to stay away from it.""
+}
+```",1
+R005,negative,negative,not as good as the trailer made it out to be | Quite disappointing,"```json
+{
+  ""sentiment"": ""negative"",
+  ""evidence"": [""not as good as the trailer made it out to be"", ""Quite disappointing""],
+  ""short_explanation"": ""The reviewer found the movie disappointing compared to expectations set by the trailer.""
+}
+```",1
+R006,positive,positive,it was actually not bad at all | A pleasant surprise,"```json
+{
+  ""sentiment"": ""positive"",
+  ""evidence"": [""it was actually not bad at all"", ""A pleasant surprise""],
+  ""short_explanation"": ""The reviewer expresses a pleasant surprise and that the movie exceeded their low expectations.""
+}
+```",1
+R007,negative,negative,villain was never convincing | plot lacked any real tension,"```json
+{
+  ""sentiment"": ""negative"",
+  ""evidence"": [""villain was never convincing"", ""plot lacked any real tension""],
+  ""short_explanation"": ""The review criticizes both the villain's portrayal and the plot, indicating dissatisfaction with these aspects of the movie.""
+}
+```",1
+R008,negative,mixed,The visuals were absolutely stunning | but the storyline was incredibly weak and full of plot holes,"```json
+{
+  ""sentiment"": ""mixed"",
+  ""evidence"": [""The visuals were absolutely stunning"", ""but the storyline was incredibly weak and full of plot holes""],
+  ""short_explanation"": ""The review expresses both positive sentiment towards the visuals and negative sentiment regarding the storyline.""
+}
+```",1
+R009,positive,mixed,I loved the acting and the soundtrack | but the pacing in the middle was so slow I almost fell asleep,"```json
+{
+  ""sentiment"": ""mixed"",
+  ""evidence"": [""I loved the acting and the soundtrack"", ""but the pacing in the middle was so slow I almost fell asleep""],
+  ""short_explanation"": ""The reviewer had positive feelings about certain aspects but found other parts unsatisfactory.""
+}
+```",1
+R010,negative,mixed,"A very uneven film. | The first half is a thrilling action ride, while the second half devolves into a boring melodrama.","```json
+{
+  ""sentiment"": ""mixed"",
+  ""evidence"": [""A very uneven film."", ""The first half is a thrilling action ride, while the second half devolves into a boring melodrama.""],
+  ""short_explanation"": ""The review indicates both positive and negative aspects of the film, making it mixed overall.""
+}
+```",1
+R011,negative,mixed,starts off with a lot of promise | features some of the best CGI I have seen this year | ultimately falls flat | leaving the audience confused and detached from the main characters,"```json
+{
+  ""sentiment"": ""mixed"",
+  ""evidence"": [""starts off with a lot of promise"", ""features some of the best CGI I have seen this year"", ""ultimately falls flat"", ""leaving the audience confused and detached from the main characters""],
+  ""short_explanation"": ""The review highlights both positive aspects like promising start and impressive CGI, but also points out significant flaws in direction and audience engagement.""
+}
+```",1
+R012,positive,positive,"I found the nostalgic homage perfectly executed, blending great choreography with just enough modern flair to keep it fresh and extremely entertaining.","```json
+{
+  ""sentiment"": ""positive"",
+  ""evidence"": ""I found the nostalgic homage perfectly executed, blending great choreography with just enough modern flair to keep it fresh and extremely entertaining."",
+  ""short_explanation"": ""The reviewer found the film entertaining despite some critics' arguments.""
+}
+```",1
+R013,neutral,mixed,"Well, that was certainly something.","```json
+{
+  ""sentiment"": ""mixed"",
+  ""evidence"": ""Well, that was certainly something."",
+  ""short_explanation"": ""The phrase suggests both surprise and possibly dissatisfaction, indicating a mixed sentiment.""
+}
+```",1
+R014,neutral,neutral,Neither here nor there.,"```json
+{
+  ""sentiment"": ""neutral"",
+  ""evidence"": ""Neither here nor there."",
+  ""short_explanation"": ""The phrase indicates a lack of strong positive or negative emotion.""
+}
+```",1
+R015,negative,negative,How completely original and groundbreaking,"```json
+{
+  ""sentiment"": ""negative"",
+  ""evidence"": ""How completely original and groundbreaking"",
+  ""short_explanation"": ""The review sarcastically criticizes the movie's lack of originality.""
+}
+```",1
+R016,negative,negative,staring at a blank wall for two hours,"```json
+{
+  ""sentiment"": ""negative"",
+  ""evidence"": ""staring at a blank wall for two hours"",
+  ""short_explanation"": ""The review suggests that watching the movie is as unengaging as staring at a blank wall.""
+}
+```",1
+R017,negative,negative,made a high-speed car chase feel incredibly boring,"```json
+{
+  ""sentiment"": ""negative"",
+  ""evidence"": ""made a high-speed car chase feel incredibly boring"",
+  ""short_explanation"": ""The reviewer found the car chase uninteresting despite its potential.""
+}
+```",1
+R018,positive,positive,on the edge of my seat | A brilliant thriller,"```json
+{
+  ""sentiment"": ""positive"",
+  ""evidence"": [""on the edge of my seat"", ""A brilliant thriller""],
+  ""short_explanation"": ""The reviewer found the movie thrilling and exciting throughout.""
+}
+```",1
+R019,positive,positive,The lead actress carried the entire film on her shoulders.,"```json
+{
+  ""sentiment"": ""positive"",
+  ""evidence"": ""The lead actress carried the entire film on her shoulders."",
+  ""short_explanation"": ""The review highlights the lead actress's significant contribution to making the film watchable.""
+}
+```",1
+R020,negative,negative,Totally disjointed and messy | A huge letdown,"```json
+{
+  ""sentiment"": ""negative"",
+  ""evidence"": [""Totally disjointed and messy"", ""A huge letdown""],
+  ""short_explanation"": ""The reviewer expresses strong dissatisfaction with the movie, describing it as disjointed, messy, and a letdown.""
+}
+```",1

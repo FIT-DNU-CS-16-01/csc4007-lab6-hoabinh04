@@ -1,0 +1,21 @@
+review_id,review_text,gold_sentiment,note
+R001,"An absolute masterpiece! The acting, the cinematography, and the score all came together to create an unforgettable experience. I will watch this again and again.",positive,very positive
+R002,Simply brilliant. One of the best films of the decade with a stellar performance by the lead actor.,positive,very positive
+R003,"This is the worst movie I have ever seen. Terrible plot, awful acting, and a complete waste of time and money.",negative,very negative
+R004,An absolute disaster. I cannot believe someone funded this garbage. Do yourself a favor and avoid it.,negative,very negative
+R005,"To be honest, it was not as good as the trailer made it out to be. Quite disappointing.",negative,negation (not good)
+R006,"I went in with low expectations, but it was actually not bad at all. A pleasant surprise.",positive,negation (not bad)
+R007,"The villain was never convincing, and the plot lacked any real tension.",negative,negation (never convincing)
+R008,"The visuals were absolutely stunning, but the storyline was incredibly weak and full of plot holes.",negative,"mixed cue (good visuals, bad plot)"
+R009,"I loved the acting and the soundtrack, but the pacing in the middle was so slow I almost fell asleep.",positive,"mixed cue (good acting, slow pacing)"
+R010,"A very uneven film. The first half is a thrilling action ride, while the second half devolves into a boring melodrama.",negative,"mixed cue (half good, half bad)"
+R011,"Although it starts off with a lot of promise and features some of the best CGI I have seen this year, the movie ultimately falls flat because the director could not decide whether he wanted to make a serious sci-fi epic or a lighthearted comedy, leaving the audience confused and detached from the main characters.",negative,long complex sentence
+R012,"While critics might argue that the script is somewhat derivative of 80s action films, I found the nostalgic homage perfectly executed, blending great choreography with just enough modern flair to keep it fresh and extremely entertaining.",positive,long complex sentence
+R013,"Well, that was certainly something.",neutral,short ambiguous
+R014,It is what it is. Neither here nor there.,neutral,short ambiguous
+R015,"Oh wow, another superhero movie where a giant beam of light shoots into the sky to destroy the city. How completely original and groundbreaking. Give this writer an Oscar.",negative,sarcasm
+R016,"If you enjoy staring at a blank wall for two hours, this is the perfect cinematic adventure for you.",negative,sarcasm
+R017,They somehow managed to make a high-speed car chase feel incredibly boring. Truly an impressive feat.,negative,sarcasm
+R018,I was on the edge of my seat the entire time! A brilliant thriller.,positive,very positive
+R019,"The lead actress carried the entire film on her shoulders. Without her, it would be unwatchable.",positive,"mixed (praise actress, bash film)"
+R020,Totally disjointed and messy. A huge letdown after such a great prequel.,negative,very negative

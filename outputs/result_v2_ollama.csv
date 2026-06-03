@@ -1,0 +1,356 @@
+review_id,gold_sentiment,llm_sentiment,llm_evidence,raw_output,valid_json
+R001,positive,positive,,"{
+  ""sentiment"": ""positive"",
+  ""aspects"": [
+    {
+      ""aspect"": ""acting"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""The acting, the cinematography, and the score all came together to create an unforgettable experience.""
+    },
+    {
+      ""aspect"": ""visuals"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""The acting, the cinematography, and the score all came together to create an unforgettable experience.""
+    },
+    {
+      ""aspect"": ""music"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""The acting, the cinematography, and the score all came together to create an unforgettable experience.""
+    },
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""I will watch this again and again.""
+    }
+  ],
+  ""short_explanation"": ""The review praises multiple aspects of the film, including acting, cinematography, score, and overall experience."",
+  ""confidence"": ""high""
+}",1
+R002,positive,positive,,"{
+  ""sentiment"": ""positive"",
+  ""aspects"": [
+    {
+      ""aspect"": ""acting"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""stellar performance by the lead actor""
+    },
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""Simply brilliant. One of the best films of the decade""
+    }
+  ],
+  ""short_explanation"": ""The review praises the acting and considers it one of the best films of the decade."",
+  ""confidence"": ""high""
+}",1
+R003,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""story"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""Terrible plot""
+    },
+    {
+      ""aspect"": ""acting"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""awful acting""
+    },
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""a complete waste of time and money""
+    }
+  ],
+  ""short_explanation"": ""The reviewer strongly criticizes the plot, acting, and overall experience."",
+  ""confidence"": ""high""
+}",1
+R004,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""An absolute disaster.""
+    },
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""I cannot believe someone funded this garbage.""
+    }
+  ],
+  ""short_explanation"": ""The reviewer strongly discourages watching the movie, describing it as a disaster and garbage."",
+  ""confidence"": ""high""
+}",1
+R005,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""not as good as the trailer made it out to be""
+    }
+  ],
+  ""short_explanation"": ""The reviewer found the movie disappointing compared to expectations set by the trailer."",
+  ""confidence"": ""high""
+}",1
+R006,positive,positive,,"{
+  ""sentiment"": ""positive"",
+  ""aspects"": [
+    {
+      ""aspect"": ""overall"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""it was actually not bad at all""
+    }
+  ],
+  ""short_explanation"": ""The reviewer had low expectations but found the movie to be a pleasant surprise."",
+  ""confidence"": ""high""
+}",1
+R007,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""acting"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""The villain was never convincing""
+    },
+    {
+      ""aspect"": ""story"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""the plot lacked any real tension""
+    }
+  ],
+  ""short_explanation"": ""The review criticizes the acting and the story, indicating a negative sentiment."",
+  ""confidence"": ""high""
+}",1
+R008,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""visuals"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""The visuals were absolutely stunning""
+    },
+    {
+      ""aspect"": ""story"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""the storyline was incredibly weak and full of plot holes""
+    }
+  ],
+  ""short_explanation"": ""While the visuals were praised, the negative sentiment is dominated by criticism of the story."",
+  ""confidence"": ""high""
+}",1
+R009,positive,positive,,"{
+  ""sentiment"": ""positive"",
+  ""aspects"": [
+    {
+      ""aspect"": ""acting"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""I loved the acting""
+    },
+    {
+      ""aspect"": ""music"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""the soundtrack""
+    },
+    {
+      ""aspect"": ""pacing"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""the pacing in the middle was so slow I almost fell asleep""
+    }
+  ],
+  ""short_explanation"": ""The reviewer enjoyed the acting and music but found the pacing to be a significant drawback."",
+  ""confidence"": ""medium""
+}",1
+R010,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""acting"",
+      ""polarity"": ""neutral"",
+      ""evidence"": """"
+    },
+    {
+      ""aspect"": ""story"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""devolves into a boring melodrama""
+    },
+    {
+      ""aspect"": ""pacing"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""uneven film""
+    },
+    {
+      ""aspect"": ""ending"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""second half devolves into a boring melodrama""
+    }
+  ],
+  ""short_explanation"": ""The review criticizes the second half of the film, describing it as boring and unengaging. While the first half is praised as thrilling, the overall sentiment is negative due to the uneven nature of the movie."",
+  ""confidence"": ""high""
+}",1
+R011,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""visuals"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""features some of the best CGI I have seen this year""
+    },
+    {
+      ""aspect"": ""direction"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""the director could not decide whether he wanted to make a serious sci-fi epic or a lighthearted comedy, leaving the audience confused and detached from the main characters""
+    }
+  ],
+  ""short_explanation"": ""While the movie had promising visuals, poor direction led to confusion and disconnection with the characters."",
+  ""confidence"": ""high""
+}",1
+R012,positive,positive,,"{
+  ""sentiment"": ""positive"",
+  ""aspects"": [
+    {
+      ""aspect"": ""story"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""critics might argue that the script is somewhat derivative of 80s action films""
+    },
+    {
+      ""aspect"": ""acting"",
+      ""polarity"": ""neutral"",
+      ""evidence"": ""not explicitly mentioned in the review""
+    },
+    {
+      ""aspect"": ""visuals"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""blending great choreography with just enough modern flair to keep it fresh and extremely entertaining""
+    },
+    {
+      ""aspect"": ""music"",
+      ""polarity"": ""neutral"",
+      ""evidence"": ""not explicitly mentioned in the review""
+    },
+    {
+      ""aspect"": ""pacing"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""blending great choreography with just enough modern flair to keep it fresh and extremely entertaining""
+    },
+    {
+      ""aspect"": ""direction"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""blending great choreography with just enough modern flair to keep it fresh and extremely entertaining""
+    },
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""I found the nostalgic homage perfectly executed, blending great choreography with just enough modern flair to keep it fresh and extremely entertaining""
+    }
+  ],
+  ""short_explanation"": ""The reviewer finds the movie's execution of a nostalgic homage as well-executed and entertaining despite some derivative elements."",
+  ""confidence"": ""high""
+}",1
+R013,neutral,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""Well, that was certainly something.""
+    }
+  ],
+  ""short_explanation"": ""The review expresses dissatisfaction with the movie."",
+  ""confidence"": ""medium""
+}",1
+R014,neutral,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""Neither here nor there.""
+    }
+  ],
+  ""short_explanation"": ""The review suggests the movie is unremarkable and lacks clear positive or negative qualities."",
+  ""confidence"": ""high""
+}",1
+R015,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""story"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""another superhero movie where a giant beam of light shoots into the sky to destroy the city. How completely original and groundbreaking.""
+    }
+  ],
+  ""short_explanation"": ""The review criticizes the story as unoriginal and mocks the plot device."",
+  ""confidence"": ""high""
+}",1
+R016,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""staring at a blank wall for two hours""
+    }
+  ],
+  ""short_explanation"": ""The review suggests the movie is unengaging, comparing it to staring at a blank wall."",
+  ""confidence"": ""high""
+}",1
+R017,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""pacing"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""made a high-speed car chase feel incredibly boring""
+    }
+  ],
+  ""short_explanation"": ""The review criticizes the pacing of the car chase scene, finding it boring despite its potential excitement."",
+  ""confidence"": ""high""
+}",1
+R018,positive,positive,,"{
+  ""sentiment"": ""positive"",
+  ""aspects"": [
+    {
+      ""aspect"": ""story"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""I was on the edge of my seat the entire time!""
+    },
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""A brilliant thriller.""
+    }
+  ],
+  ""short_explanation"": ""The reviewer found the movie thrilling and engaging throughout."",
+  ""confidence"": ""high""
+}",1
+R019,positive,positive,,"{
+  ""sentiment"": ""positive"",
+  ""aspects"": [
+    {
+      ""aspect"": ""acting"",
+      ""polarity"": ""positive"",
+      ""evidence"": ""The lead actress carried the entire film on her shoulders.""
+    }
+  ],
+  ""short_explanation"": ""The review praises the lead actress's performance, indicating a positive sentiment."",
+  ""confidence"": ""high""
+}",1
+R020,negative,negative,,"{
+  ""sentiment"": ""negative"",
+  ""aspects"": [
+    {
+      ""aspect"": ""pacing"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""Totally disjointed and messy""
+    },
+    {
+      ""aspect"": ""other"",
+      ""polarity"": ""negative"",
+      ""evidence"": ""A huge letdown after such a great prequel.""
+    }
+  ],
+  ""short_explanation"": ""The review criticizes the movie's pacing and expresses disappointment compared to its predecessor."",
+  ""confidence"": ""high""
+}",1

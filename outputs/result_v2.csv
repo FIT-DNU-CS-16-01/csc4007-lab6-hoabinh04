@@ -1,0 +1,21 @@
+review_id,gold_sentiment,llm_sentiment,llm_evidence,raw_output,valid_json
+R001,positive,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R002,positive,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R003,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R004,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R005,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R006,positive,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R007,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R008,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R009,positive,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R010,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R011,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R012,positive,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R013,neutral,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R014,neutral,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R015,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R016,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R017,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R018,positive,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R019,positive,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
+R020,negative,,,"{""error"": ""Vui lòng set biến môi trường GEMINI_API_KEY""}",1
